@@ -1,1 +1,40 @@
-
+<html>
+    <body>
+        <header>
+            <nav>
+                <a href="">види котів</a>  
+            </nav>
+        </header>
+        <main>
+            <h1>котики</h1>
+            <img class="head_img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLhwrCqtmVFEikDgGPMfMzZkptA3K0v1TiQ&usqp=CAU" width="99999999999999999999999999999999999999990px"/>
+            <h2 id="catalog">види</h2>
+            <section class="catalog">
+                <article class="product">
+                    <img src="https://pesyk.kiev.ua/wp-content/uploads/Harakter-britanskih-koshek-1.jpg" height="90px"/><br/>
+                    <a href="">британці</a>
+                </article>
+                <article class="product">
+                    <img src="https://img.depo.ua/745xX/Apr2017/213985.jpg" height="100px"/><br/>
+                    <a href="">звичайні або вуличні 
+                    </a>
+                </article>
+                <article class="product">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Mimbi3.JPG   " height="100px"/><br/>
+                    <a href="">сіамскі
+                    </a>
+                </article>
+                <article class="product">
+                    <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDIs-L5uFlgbjZiG3xTqju6bHwFjPZZc6Ng&usqp=CAU" height="100px"/><br/>
+                    <a href="">сфінкси
+                    </a>
+                </article>
+                <article class="product">
+                    <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Persialainen.jpg/240px-Persialainen.jpg   " height="100px"/><br/>
+                    <a href="">персідські </a>
+                </article>
+                <article class="product">
+                    <img src="https://zoo.kyiv.ua/wp-content/uploads/2021/08/lesnoj-kot.jpg" height="100px"/><br/>
+                    <a href="">лісові коти  </a>
+                </article>
+            </section>
